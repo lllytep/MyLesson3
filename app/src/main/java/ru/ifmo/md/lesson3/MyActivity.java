@@ -7,7 +7,7 @@ import android.view.View;
 public class MyActivity extends Activity {
 
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCвравкегк574варreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
     }
 }
